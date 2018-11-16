@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name         = "UITableViewCollectionViewReuse"
   s.version      = "0.0.1"
-  s.license  = 'MIT'
+  s.license      = 'MIT'
   s.summary      = "UITableViewCollectionViewReuse Project"
   s.platform     = "ios"
   s.ios.deployment_target = "8.0"
