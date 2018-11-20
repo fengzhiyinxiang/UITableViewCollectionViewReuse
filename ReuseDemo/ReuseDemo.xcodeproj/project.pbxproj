@@ -83,10 +83,10 @@
 		B06B5F68219E900E00E35EF1 /* UITableViewCollectionViewReuse */ = {
 			isa = PBXGroup;
 			children = (
-				B06B5F69219E900E00E35EF1 /* UICollectionView+Reuse.m */,
 				B06B5F6A219E900E00E35EF1 /* UITableView+Reuse.h */,
-				B06B5F6B219E900E00E35EF1 /* UICollectionView+Reuse.h */,
 				B06B5F6C219E900E00E35EF1 /* UITableView+Reuse.m */,
+				B06B5F6B219E900E00E35EF1 /* UICollectionView+Reuse.h */,
+				B06B5F69219E900E00E35EF1 /* UICollectionView+Reuse.m */,
 			);
 			name = UITableViewCollectionViewReuse;
 			path = ../../UITableViewCollectionViewReuse;
